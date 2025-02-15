@@ -26,24 +26,18 @@ Ensure you have **Node.js** and **npm** installed on your system.
 1. **Clone the repository:**  
    ```bash
    git clone https://github.com/Cameron-Houston/Photo-Booth-App.git
-Navigate to the project directory:
+2. **Navigate to the project directory:**
+   ```bash
+   cd Photo-Booth-App
 
-bash
-Copy
-Edit
-cd Photo-Booth-App
-Install dependencies:
+3. **Install dependencies:**
+   ```bash
+   npm install
 
-bash
-Copy
-Edit
-npm install
-Run the development server:
+3. **Run the development server:**
+   ```bash
+   npm run dev
 
-bash
-Copy
-Edit
-npm run dev
 Open the app in your browser:
 http://localhost:5173
 
@@ -74,5 +68,4 @@ Contributions, issues, and feature requests are welcome!
 👤 Author
 Cameron Houston
 
-🔗 Website: cameron-houston.com
 🐙 GitHub: @Cameron-Houston
